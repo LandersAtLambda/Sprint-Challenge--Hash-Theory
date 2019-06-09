@@ -1,0 +1,5 @@
+DEBUG tests/ex2_tests.c:114: ----- RUNNING: ./tests/ex2_tests
+DEBUG tests/ex2_tests.c:108: 
+----- test_short_case
+DEBUG tests/ex2_tests.c:109: 
+----- test_long_case
